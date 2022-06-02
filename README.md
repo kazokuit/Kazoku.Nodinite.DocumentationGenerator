@@ -1,2 +1,2 @@
-# nodinite-wiki-generator
-Nodinite Wiki Generator - Generates wiki pages based on monitor views in Nodinite
+# Kazoku Nodinite Documentation Generator
+Nodinite Wiki Generator - Generates wiki pages based on monitor and log views from a Nodinite intance.
